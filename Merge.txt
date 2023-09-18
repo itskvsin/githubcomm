@@ -1,0 +1,6 @@
+Merging commands:-
+
+->git diff <branch name> (To compare commits, branches , files , etc.)
+->git git merge <branch name> (To merge the branches)
+
+->Create a PR (Pull Request)
