@@ -1,0 +1,7 @@
+Branches:-
+
+->git branch    (to check branch)
+->git branch -M main   (to rename branch)
+->git checkout (To switch from one branch to another branch)
+->git checkout -b<branch name you want to make> (To make a branch)
+->git push origin <branch name>   (To add the branch and it's changes on Github)
