@@ -1,0 +1,10 @@
+commands:-
+
+git add <file name><To add the changes before Commiting the files on global level >
+git commit -m"Message to be relaied"<To save the changes on a global level>
+git status<To see status>
+git push origin main <To push the files in github>
+cd <which folder you want to make>
+mkdir <to make the diretory/folder>
+
+---
