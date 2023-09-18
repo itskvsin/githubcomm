@@ -6,5 +6,5 @@ git status<To see status>
 git push origin main <To push the files in github>
 cd <which folder you want to make>
 mkdir <to make the diretory/folder>
-
+git clone <link of the repo> <to copy the repo>
 ---
